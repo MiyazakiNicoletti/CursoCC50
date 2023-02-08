@@ -1,6 +1,6 @@
 Curso CS50 de Harvard.
 Este é um repositório dedicado ao curso CS50 de Harvard. Aqui você encontrará todos os exercícios resolvidos por mim.
-Serve para auxiliar aqueles que estão realizando o curso.
+Serve para auxiliar aqueles que estão realizando o curso.Durante a realização do curso notei que outros cursando efetuavam os desafios de formas diferente, gostei muito de ver essa variedade de soluções, por esse motivo, contribuo com as minhas.
 
 
  PSET 1 - C
